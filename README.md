@@ -144,9 +144,10 @@ Novos projetos de análise de dados e Inteligência Artificial serão adicionado
 
 *my journey, one commit at a time*
 
-<img src="https://github-readme-stats.vercel.app/api?username=beatrizzdias&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=C084FC&icon_color=F48FB1&text_color=895A83&rank_icon=github" height="170" alt="Estatísticas do GitHub"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizzdias&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=C084FC&text_color=895A83" height="170" alt="Linguagens dos repositórios"/>
+<img src="https://ghstats.dev/api/card?username=beatrizzdias&theme=sakura" alt="Estatísticas do GitHub" width="49%" />
+<img src="https://ghstats.dev/api/card?username=beatrizzdias&theme=sakura&layout=compact" alt="Resumo compacto do GitHub" width="49%" />
 
 <br/><br/>
 
