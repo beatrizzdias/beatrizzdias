@@ -157,7 +157,7 @@ Estou construindo novos projetos e registrando minha evolução na tecnologia. E
 <img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=4C285B" alt="GitHub"/>
 </a>
 
-<a href="www.linkedin.com/in/beatriz-fonseca-dias-21938b2b0">
+<a href="linkedin.com/in/beatriz-fonseca-dias-21938b2b0">
 <img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=6D315E" alt="LinkedIn"/>
 </a>
 
