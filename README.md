@@ -35,9 +35,9 @@
 
 Oii, eu sou a **Beatriz Fonseca**! 🎀
 
-🎓 Estudante de **Ciência de Dados na Univesp**.
+🎓 Estudante de **Ciência de Dados na Univesp e Ciência da Computação na Unicid**.
 
-💻 Tenho conhecimentos em Python, Excel e Inteligência Artificial.
+💻 Tenho conhecimentos em Python, Excel, SQL, Banco de Dados e Inteligência Artificial.
 
 🌷 Gosto de explorar como a tecnologia pode resolver problemas, automatizar tarefas e transformar dados em informações úteis.
 
