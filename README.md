@@ -35,7 +35,7 @@
 
 Oii, eu sou a **Beatriz**! 💗
 
-🎓 Estudante de **Ciência de Dados na Univesp**.
+🎓 Estudante de **Ciência de Dados na Univesp e Ciência da Computação na Unicid**.
 
 🐍 Tenho conhecimentos em Python, Excel e Inteligência Artificial.
 
