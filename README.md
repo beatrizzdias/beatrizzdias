@@ -147,7 +147,6 @@ Novos projetos de análise de dados e Inteligência Artificial serão adicionado
 <div align="center">
 
 <img src="https://ghstats.dev/api/card?username=beatrizzdias&theme=sakura" alt="Estatísticas do GitHub" width="49%" />
-<img src="https://ghstats.dev/api/card?username=beatrizzdias&theme=sakura&layout=compact" alt="Resumo compacto do GitHub" width="49%" />
 
 <br/><br/>
 
