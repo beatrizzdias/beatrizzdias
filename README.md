@@ -133,9 +133,11 @@ Estou construindo novos projetos e registrando minha evolução na tecnologia. E
 
 *my journey, one commit at a time* 💗
 
-<img src="https://github-readme-stats.vercel.app/api?username=beatrizzdias&show_icons=true&hide_border=true&bg_color=FFF5FB&title_color=C084FC&icon_color=F472B6&text_color=895A83&rank_icon=github" height="170" alt="Estatísticas do GitHub"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizzdias&layout=compact&hide_border=true&bg_color=FFF5FB&title_color=C084FC&text_color=895A83" height="170" alt="Linguagens dos repositórios"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=beatrizzdias&show_icons=true&hide_border=true&bg_color=FFF5FB&title_color=C084FC&icon_color=F472B6&text_color=895A83&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizzdias&layout=compact&hide_border=true&bg_color=FFF5FB&title_color=C084FC&text_color=895A83" alt="Linguagens dos repositórios"/>
+
 
 <br/><br/>
 
