@@ -1,124 +1,189 @@
 
-<!-- 🎀 BANNER -->
+<!--
+  🎀 PINK GIRL IN TECH — PROFILE README
+  Troque SEU_USUARIO pelo seu username em todos os links.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=200&section=header&text=Beatriz%20Fonseca&fontSize=42&fontColor=6B3A75&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20%7C%20AI&descAlignY=55&descSize=17" width="100%" alt="Banner rosa e lilás de Beatriz Fonseca"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,35:E9D5FF,70:F5D0FE,100:C4B5FD&text=Beatriz%20Fonseca&fontSize=48&fontColor=783D78&fontAlignY=38&desc=୨୧%20data%20girl%20in%20progress%20୨୧&descSize=18&descAlignY=58&animation=twinkling&stroke=FDF2F8&strokeWidth=1&section=header" alt="Banner animado rosa e lilás"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Oi%2C+seja+bem-vindo(a)!+%E2%9C%A8;Estudante+de+Ci%C3%AAncia+de+Dados+%F0%9F%93%8A;Aprendendo%2C+criando+e+evoluindo+%F0%9F%92%97" alt="Texto animado de apresentação"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9C%A7+welcome+to+my+little+tech+world+%E2%9C%A7;%F0%9F%8E%80+Data+Science+student;%F0%9F%90%8D+Python+%7C+Data+%7C+AI;%E2%9C%A8+learning+something+new+every+day" alt="Apresentação com animação de digitação"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Animação de uma pessoa programando"/>
+<br/>
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="220" alt="GIF fofo de programação"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/♡-pink%20coding-F9A8D4?style=for-the-badge" alt="Pink coding"/>
+<img src="https://img.shields.io/badge/୨୧-learning-C4B5FD?style=for-the-badge" alt="Learning"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=E9A8D4&label=VISITORS" alt="Contador de visitas"/>
+
+<br/>
+
+[ ♡ About me ](#-about-me) · [ ♡ Skills ](#-my-tech-world) · [ ♡ Projects ](#-my-little-projects) · [ ♡ Stats ](#-my-github-world)
 
 </div>
 
 ---
 
-## 🎀 Sobre mim
+<div align="center">
 
-Oii! Eu sou a **Beatriz Fonseca** 💗
+## ୨୧ about me ୨୧
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" align="right" alt="GIF de programação"/>
+
+</div>
+
+Oii, eu sou a **Beatriz**! 🎀
 
 🎓 Estudante de **Ciência de Dados na Univesp**.
 
-💻 Tenho conhecimentos em Python, Excel e Inteligência Artificial, e gosto de explorar como a tecnologia pode ajudar a resolver problemas e tornar tarefas mais eficientes.
+💗 Tenho conhecimentos em Python, Excel e Inteligência Artificial.
 
-🌷 Estou construindo minha jornada na tecnologia, desenvolvendo projetos, aprendendo novas ferramentas e buscando transformar conhecimento em soluções práticas.
+🧸 Gosto de explorar como a tecnologia pode resolver problemas, automatizar tarefas e transformar dados em informações úteis.
 
-✨ Meu objetivo é crescer na área de Dados, ampliar minhas habilidades e construir um portfólio com projetos que mostrem minha evolução.
+🌷 Atualmente, estou construindo meu portfólio, estudando novas ferramentas e desenvolvendo projetos para evoluir na área de tecnologia.
 
----
+✨ Meu objetivo é crescer profissionalmente na área de Dados e transformar cada aprendizado em algo prático.
 
-## 💻 Tecnologias e ferramentas
+<br clear="right"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=light" height="48" alt="Python"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,100:E9D5FF&height=3&section=header" width="100%" alt="Divisória rosa e lilás"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-C084FC?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial"/>
+## ♡ my tech world ♡
+
+*tools I use & things I'm learning*
 
 </div>
 
-**Atualmente estudando e desenvolvendo:**
-
-- 📊 Análise e interpretação de dados
-- 🐍 Python aplicado a projetos
-- 🗄️ SQL e bancos de dados
-- 📈 Visualização de dados e Power BI
-- 🤖 Inteligência Artificial e engenharia de prompt
-
----
-
-## 🌸 Meus projetos
-
 <div align="center">
 
-### ✨ Projetos em destaque
+### ୨୧ My toolkit
 
-</div>
+<img src="https://skillicons.dev/icons?i=python&theme=light" height="55" alt="Python"/>
 
-📁 **[Nome do projeto 1](LINK_DO_REPOSITORIO_1)**
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/AI-BA8DEB?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
 
-> Explique aqui o problema que o projeto resolve, as ferramentas utilizadas e o que você aprendeu durante o desenvolvimento.
+### ✧ On my learning list
 
-📁 **[Nome do projeto 2](LINK_DO_REPOSITORIO_2)**
+<img src="https://skillicons.dev/icons?i=mysql,pandas,git,github,vscode&theme=light" alt="Ferramentas e tecnologias em estudo"/>
 
-> Adicione uma descrição curta, destacando a aplicação prática e os principais resultados.
-
-📁 **[Nome do projeto 3](LINK_DO_REPOSITORIO_3)**
-
-> Mostre outro projeto relevante, de preferência relacionado a dados, Python ou inteligência artificial.
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-E9D5FF?style=for-the-badge&logo=github&logoColor=6B3A75" alt="Ver todos os projetos"/>
-</a>
+<sub>SQL · análise de dados · controle de versão · visualização de dados</sub>
 
 </div>
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF7FC&title_color=C084FC&icon_color=F9A8D4&text_color=6B3A75&rank_icon=github" alt="Estatísticas do GitHub"/>
+## 🎀 my little projects
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=FFF7FC&title_color=C084FC&text_color=6B3A75" alt="Linguagens mais usadas"/>
+*little ideas, real learning, one commit at a time*
 
 </div>
 
+<!-- Troque os exemplos abaixo por projetos reais. -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♡ Project 01
+
+**[Nome do seu projeto](LINK_DO_PROJETO_1)**
+
+୨୧ Descreva aqui o problema, a solução e o que você aprendeu.
+
+`Python` · `Automação`
+
+</td>
+<td width="50%" valign="top">
+
+### ♡ Project 02
+
+**[Nome do seu projeto](LINK_DO_PROJETO_2)**
+
+୨୧ Explique brevemente o objetivo e as ferramentas utilizadas.
+
+`Data Science` · `Análise`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♡ Project 03
+
+**[Nome do seu projeto](LINK_DO_PROJETO_3)**
+
+୨୧ Mostre um projeto de IA, estudo ou outra solução desenvolvida por você.
+
+`AI` · `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### ♡ More projects
+
+**[Explore my repositories](https://github.com/SEU_USUARIO?tab=repositories)**
+
+୨୧ Veja meus estudos, experimentos e projetos em desenvolvimento.
+
+`Learning` · `Portfolio`
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=FFF7FC&ring=C084FC&fire=F9A8D4&currStreakLabel=8B5CF6&sideLabels=6B3A75&currStreakNum=6B3A75&sideNums=6B3A75&dates=9CA3AF" alt="Sequência de contribuições no GitHub" width="70%"/>
+## ✧ my GitHub world ✧
+
+*every little step counts* 💗
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF5FB&title_color=C084FC&icon_color=F472B6&text_color=895A83&ring_color=E9A8D4&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&hide_border=true&bg_color=FFF5FB&title_color=C084FC&text_color=895A83" alt="Distribuição de linguagens nos repositórios"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=FFF5FB&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=895A83&currStreakNum=895A83&sideNums=895A83&dates=B58AB2" alt="Sequência de contribuições"/>
 
 </div>
 
 ---
 
-## 💌 Vamos nos conectar?
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-E9D5FF?style=for-the-badge&logo=linkedin&logoColor=6B3A75" alt="LinkedIn"/>
-</a>
+## 💌 let's connect!
+
+*always happy to connect, learn & share ideas* ♡
 
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-FCE7F3?style=for-the-badge&logo=github&logoColor=6B3A75" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=4C285B" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=6D315E" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/E--mail-F3E8FF?style=for-the-badge&logo=gmail&logoColor=9333EA" alt="E-mail"/>
+<img src="https://img.shields.io/badge/Email-E9D5FF?style=for-the-badge&logo=gmail&logoColor=6D315E" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FBCFE8,50:E9D5FF,100:C4B5FD&section=footer&animation=twinkling" width="100%" alt="Rodapé animado rosa e lilás"/>
 
-<div align="center">
+**୨୧ made with love, curiosity & code ୨୧**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:E9D5FF,100:D8B4FE&height=100&section=footer" width="100%" alt="Rodapé decorativo rosa e lilás"/>
-
-*Feito com carinho, café e muitas linhas de código* ☕🌷
+<sub>♡ growing one line of code at a time ♡</sub>
 
 </div>
