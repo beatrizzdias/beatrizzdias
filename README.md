@@ -144,9 +144,9 @@ Novos projetos de análise de dados e Inteligência Artificial serão adicionado
 
 *my journey, one commit at a time*
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=beatrizzdias&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=C084FC&icon_color=F48FB1&text_color=895A83&rank_icon=github)](https://github.com/beatrizzdias)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=beatrizzdias&show_icons=true&theme=radical)
 
-[![Linguagens dos repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizzdias&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=C084FC&text_color=895A83)](https://github.com/beatrizzdias)
+![Linguagens dos repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizzdias&layout=compact&theme=radical)
 
 <br/><br/>
 
